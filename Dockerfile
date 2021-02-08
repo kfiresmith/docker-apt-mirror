@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-LABEL maintainer="kfiresmith@whoi.edu"
+LABEL maintainer="firesmith@protonmail.com"
 LABEL version="0.1"
 LABEL description="apt-mirror"
 
